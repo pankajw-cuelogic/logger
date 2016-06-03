@@ -1,0 +1,27 @@
+2016-05-12 11:23:24,565 [6] DEBUG Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+test message info
+2016-05-12 11:32:13,424 [6] DEBUG Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test Debug Message info
+2016-05-12 11:33:11,068 [6] INFO  Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test INFO Message info
+2016-05-12 11:35:12,588 [6] WARN  Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test WARN Message info
+2016-05-12 11:36:11,746 [7] DEBUG Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test Debug Message info
+2016-05-12 11:36:11,786 [7] INFO  Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test INFO Message info
+2016-05-12 11:36:11,787 [7] WARN  Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test WARN Message info
+2016-05-12 11:36:11,788 [7] ERROR Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test ERROR Message info
+2016-05-12 11:36:11,789 [7] FATAL Kantar.GHP.Logger.Test.UnitTest [(null)] - User name : 
+User Role :
+Test FATAL Message info

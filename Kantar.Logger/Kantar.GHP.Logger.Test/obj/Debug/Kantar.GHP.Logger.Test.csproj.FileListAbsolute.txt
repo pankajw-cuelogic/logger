@@ -1,0 +1,10 @@
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\bin\Debug\Kantar.GHP.Logger.Test.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\bin\Debug\Kantar.GHP.Logger.Test.pdb
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\bin\Debug\Kantar.GHP.Logger.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\bin\Debug\log4net.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\bin\Debug\Kantar.GHP.Logger.pdb
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\bin\Debug\log4net.xml
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\obj\Debug\Kantar.GHP.Logger.Test.csprojResolveAssemblyReference.cache
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\obj\Debug\Kantar.GHP.Logger.Test.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger.Test\obj\Debug\Kantar.GHP.Logger.Test.pdb

@@ -1,0 +1,13 @@
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\log4net.config
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\Kantar.GHP.Logger.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\Kantar.GHP.Logger.pdb
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\log4net.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\obj\Debug\Kantar.GHP.Logger.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\obj\Debug\Kantar.GHP.Logger.pdb
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\obj\Debug\Kantar.GHP.Logger.csprojResolveAssemblyReference.cache
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger\bin\Debug\Kantar.GHP.Logger.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger\bin\Debug\Kantar.GHP.Logger.pdb
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger\bin\Debug\log4net.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger\bin\Debug\log4net.xml
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger\obj\Debug\Kantar.GHP.Logger.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Kantar.GHP.Logger\obj\Debug\Kantar.GHP.Logger.pdb

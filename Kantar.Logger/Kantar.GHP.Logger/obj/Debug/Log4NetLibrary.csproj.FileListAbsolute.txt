@@ -1,0 +1,13 @@
+C:\Users\Cuelogic\Downloads\Log4NetFrameworkSolution\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\log4net.config
+C:\Users\Cuelogic\Downloads\Log4NetFrameworkSolution\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\Log4NetLibrary.dll
+C:\Users\Cuelogic\Downloads\Log4NetFrameworkSolution\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\Log4NetLibrary.pdb
+C:\Users\Cuelogic\Downloads\Log4NetFrameworkSolution\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\log4net.dll
+C:\Users\Cuelogic\Downloads\Log4NetFrameworkSolution\Log4NetFrameworkSolution\Log4NetLibrary\obj\Debug\Log4NetLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Cuelogic\Downloads\Log4NetFrameworkSolution\Log4NetFrameworkSolution\Log4NetLibrary\obj\Debug\Log4NetLibrary.dll
+C:\Users\Cuelogic\Downloads\Log4NetFrameworkSolution\Log4NetFrameworkSolution\Log4NetLibrary\obj\Debug\Log4NetLibrary.pdb
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\log4net.config
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\Log4NetLibrary.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\Log4NetLibrary.pdb
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\bin\Debug\log4net.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\obj\Debug\Log4NetLibrary.dll
+D:\Projects\Kantar.Logger\Kantar.Logger\Log4NetLibrary\obj\Debug\Log4NetLibrary.pdb
